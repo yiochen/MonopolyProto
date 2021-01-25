@@ -1,0 +1,17 @@
+{
+  "name": "me.yiou.monopoly",
+  "version": "0.1.3",
+  "displayName": "Monopoly Protobuf",
+  "description": "Exported c# files for monopoly protobuf",
+  "unity": "2020.2",
+  "unityRelease": "2f1",
+  "keywords": [
+    "protobuf",
+    "monopoly"
+  ],
+  "author": {
+    "name": "Yiou Chen",
+    "email": "yiouc99@gmail.com",
+    "url": "https://yiou.me"
+  }
+}
