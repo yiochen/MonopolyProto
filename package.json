@@ -1,6 +1,6 @@
 {
   "name": "me.yiou.monopoly",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "displayName": "Monopoly Protobuf",
   "description": "Exported c# files for monopoly protobuf",
   "unity": "2020.2",
