@@ -2,7 +2,7 @@ Monopoly proto exports
 Created following instruction at
 https://neogeek.dev/creating-custom-packages-for-unity-2018.3/
 
-To use install git@github.com:yiochen/MonopolyProto.git#upm in Unity.
+To use install https://github.com/yiochen/MonopolyProto.git#upm in Unity.
 
 # Make changes
 
@@ -14,4 +14,4 @@ Open unity to generate the meta files for the new cs files.
 
 - Update the version number in `Assets/MonopolyProto/package.json`
 - commit `main` branch to github
-- Run `make deploy` to release to upm branch
+- github action will automatically push to upm branch
